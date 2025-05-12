@@ -14,8 +14,8 @@
 
 ## Screenshots
 
-![Questão 1584](./Grafos-2/Questão-1584/Resultado-1584.png)
-![Questão 1584](./Grafos-2/Questão-1928/Resultado-1928.png)
+![Questão 1584](./Grafos-2/Questão-1584/Resultado1584.png)
+![Questão 1928](./Grafos-2/Questão-1928/Resultado1928.png)
 
 
 ## Vídeo da entrega
