@@ -20,6 +20,7 @@ Nesta etapa do semestre trabalhamos em cima de 5 principais assuntos em grafos:
 * Algoritmo de Kruskal 
 
 Ao nos depararmos com estes assuntos fomos ao leetcode e selecionamos 2 questões médias e 2 difífceis para fazermos juntos, 3 delas envolvendo o algoritmo de Dijkstra e uma delas envolvendo Kruskal
+Para ver detalhadamente as questões, os códigos executados e os resultados, por favor acesse [aqui](https://github.com/projeto-de-algoritmos-2025/Grafos_2_LeetCode/tree/main/Grafos-2)
 
 ## Screenshots
 
