@@ -32,6 +32,8 @@ Para ver detalhadamente as questões, os códigos executados e os resultados, po
 
 ## Vídeo da entrega
 
+<iframe width="600" height="350" src="https://www.youtube.com/embed/4f8Xw91rKqE" title="Entrega de PA 2 Grafos, Dijkstra, Kruskal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Funcionamento
 
 
